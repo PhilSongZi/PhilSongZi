@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhilSongZi
-- 👀 I’m interested in Python & Fishing
+- 👀 I’m interested in Python & Java & Fishing
 - 🌱 I’m currently learning how to moyu.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open-source projects based on java.
 - 📫 How to reach me ---email:greensun.h@gmail.com
 
 <!---
