@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @PhilSongZi
-- 👀 I’m interested in Python & Java & Fishing
-- 🌱 I’m currently learning how to moyu.
-- 💞️ I’m looking to collaborate on open-source projects based on java.
-- 📫 How to reach me ---email:greensun.h@gmail.com
+想。
 
 <!---
 PhilSongZi/PhilSongZi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
