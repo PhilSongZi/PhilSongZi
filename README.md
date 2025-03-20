@@ -1,6 +1,6 @@
 <!-- 头部动态欢迎横幅 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=页面浏览量&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=PhilSongZi&label=页面浏览量&color=blueviolet" alt="Profile views"/>
   <h1>👋 Hi, I'm philsongzi</h1>
   <p> 
     🚀 Just do something.<br>
